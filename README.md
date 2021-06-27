@@ -6,6 +6,6 @@
 <h1> Preview </h1>
 <img src="1.png" alt="Screenshot">
 
-<h1> Author </h1>
+<h1> Authors </h1>
 <p>Ecaterina Hrib - ecaterina.hrib@gmail.com</>
 <p>Lorin Budaca - lorinbudaca@gmail.com</p>
